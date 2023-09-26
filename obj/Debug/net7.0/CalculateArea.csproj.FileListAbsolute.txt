@@ -1,0 +1,14 @@
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\bin\Debug\net7.0\CalculateArea.exe
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\bin\Debug\net7.0\CalculateArea.deps.json
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\bin\Debug\net7.0\CalculateArea.runtimeconfig.json
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\bin\Debug\net7.0\CalculateArea.dll
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\bin\Debug\net7.0\CalculateArea.pdb
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\obj\Debug\net7.0\CalculateArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\obj\Debug\net7.0\CalculateArea.AssemblyInfoInputs.cache
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\obj\Debug\net7.0\CalculateArea.AssemblyInfo.cs
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\obj\Debug\net7.0\CalculateArea.csproj.CoreCompileInputs.cache
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\obj\Debug\net7.0\CalculateArea.dll
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\obj\Debug\net7.0\refint\CalculateArea.dll
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\obj\Debug\net7.0\CalculateArea.pdb
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\obj\Debug\net7.0\CalculateArea.genruntimeconfig.cache
+C:\Users\Ana PC\Documents\Ugur\CalculateArea\obj\Debug\net7.0\ref\CalculateArea.dll
